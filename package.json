@@ -1,0 +1,11 @@
+{
+  "name": "friendly-eureka",
+  "version": "2.1.0",
+  "private": true,
+  "author": "GitHub",
+  "license": "MIT",
+  "dependencies": {
+    "@yarnpkg/lockfile": "^1.1.0",
+    "bleach": "^0.3.0"
+  }
+}
