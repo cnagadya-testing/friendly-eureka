@@ -7,6 +7,7 @@
   "dependencies": {
     "@yarnpkg/lockfile": "^1.1.0",
     "bleach": "^0.3.0",
-    "spook.js": "0.0.1"
+    "spook.js": "0.0.1",
+    "@joachimdalen/devui": "2.0.0-rc12"
   }
 }
