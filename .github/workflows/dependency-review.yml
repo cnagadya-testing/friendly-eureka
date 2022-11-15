@@ -13,4 +13,4 @@ jobs:
       - name: Dependency Review
         uses: actions/dependency-review-action@main
         with:
-          config-file: 'config.yml'
+          config-file: './config.yml'
