@@ -1,1 +1,2 @@
 fail-on-scopes: a, b, c
+fail-on-severity: critical
