@@ -14,3 +14,5 @@ jobs:
         uses: actions/dependency-review-action@main
         with:
           config-file: './config.yml'
+          fail-on-severity: critical
+
