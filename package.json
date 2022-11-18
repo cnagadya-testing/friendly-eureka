@@ -1,0 +1,7 @@
+{
+  "author": "Whoever",
+  "license": "MIT",
+    "dependencies": {
+      "apackage": "^1.1.0"
+  }
+}
